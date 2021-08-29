@@ -1,4 +1,4 @@
-package com.riyazuddin.zingjetpackcompose.ui.theme
+package com.riyazuddin.zingjetpackcompose.presenation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
